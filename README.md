@@ -52,9 +52,9 @@ You might ask: since this is an open-source repository, why is the core logic ga
 
 -   **The Pitfall Guide:** This **$59.99** blueprint is designed to help you avoid tens of thousands of dollars in R&D dead ends. We believe a serious engineering design deserves to be treated with seriousness.
     
--   **Continuous R&D:** Proceeds from the book will be used directly to support our team's engineering verification of the core AGI architecture and our company operations, ensuring long-term technical investment and maintenance.
+-   **Sustainable Research:** Proceeds from the book are dedicated to supporting the ongoing engineering verification of the core AGI architecture and the long-term technical evolution of this project.
     
--   **Filtering Co-builders:** Through this method, we seek peers who are truly willing to reconstruct machine life from the ground up.
+-   **Filtering Co-builders:** Through this method, I seek peers who are truly willing to reconstruct machine life from the ground up.
     
 
 > **📖 Get the Paperback:**
@@ -74,9 +74,11 @@ I am the author of this book. I initiated this project to invite architects and 
 
 ----------
 
-### ⚖️ License
+### ⚖️  License
 
 This project is licensed under the .
 
--   **Code Authorization:** The engineering implementation code in this repository is open-source. Commercial use, distribution, and modification are permitted provided that the copyright notice is retained.
+-   **Code Authorization:** The implementation code is open-source. Commercial use, distribution, and modification are permitted provided the copyright notice is retained.
     
+
+**Copyright © 2026 [Hai Bian]. All rights reserved.**
