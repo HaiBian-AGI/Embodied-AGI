@@ -2,6 +2,7 @@
 
 This repository is the official engineering implementation library for the book **"The Origin of New Species: Engineering Implementation of AGI and Embodied Intelligence" (2026)**. Our goal is to transform the systematic theories regarding AGI and embodied intelligence into a runnable, verifiable "Machine Life" system.
 
+![The Origin of New Species: Engineering Implementation of AGI and Embodied Intelligence](docs/images/cover.png)
 ----------
 
 ### 🧭 Why do you need this "Navigational Chart"?
