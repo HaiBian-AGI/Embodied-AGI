@@ -59,9 +59,10 @@ You might ask: since this is an open-source repository, why is the core logic ga
 
 >[ **📖 Get the Paperback:**](https://www.amazon.com/dp/B0GMD8K344)
 > 
+
 > <p align="center">
   <a href="https://www.amazon.com/dp/B0GMD8K344">
-    <img src="docs/images/cove2.png" alt="The Origin of New Species:An Engineering Approach to AGI and
+    <img src="docs/images/cover2.png" alt="The Origin of New Species:An Engineering Approach to AGI and
 Embodied Intelligence" width="100">
   </a>
 </p>
