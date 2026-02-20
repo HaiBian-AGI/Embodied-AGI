@@ -1,3 +1,26 @@
+# From Cockroach to Machine Life — Intelligence Comes from Design, Not Emergence
+
+A cockroach crawls slowly across a table.
+> <img src="docs/images/Cockroach.png" alt="Cockroach" width="200"/>
+
+It stops and starts, lingering longer in some spots;
+under tiny disturbances, it sometimes abruptly changes direction, and sometimes keeps exploring.
+Its speed is unstable:
+sometimes fast, sometimes slow;
+sometimes raising its antennae to sense the environment;
+sometimes moving east, sometimes west.
+Each movement covers a different distance,
+and in a world full of uncertainty, it continuously adjusts its pace and trajectory.
+
+It has no language,
+no massive data,
+no computing power.
+
+Yet how does such complex and stable behavior arise from underlying mechanisms? 
+What is the underlying mechanism behind it?
+
+If you are interested in general-purpose intelligent agents, environment interaction, and the mechanisms behind behavior generation, this is the ideal entry point.
+
 # AGI & Embodied Intelligence: Architecture Design and Engineering Implementation
 
 This repository is the official engineering implementation library for the book **"The Origin of New Species: Engineering Implementation of AGI and Embodied Intelligence" (2026)**. Our goal is to transform the systematic theories regarding AGI and embodied intelligence into a runnable, verifiable "Machine Life" system.
@@ -57,13 +80,13 @@ You might ask: since this is an open-source repository, why is the core logic ga
 -   **Filtering Co-builders:** Through this method, I seek peers who are truly willing to reconstruct machine life from the ground up.
     
 
->[ **📖 Get the Paperback:**](https://www.amazon.com/dp/B0GMD8K344)
+**📖 Get the Paperback:**   https://www.amazon.com/dp/B0GMD8K344
 > 
 
 > <p align="center">
   <a href="https://www.amazon.com/dp/B0GMD8K344">
     <img src="docs/images/cover2.png" alt="The Origin of New Species:An Engineering Approach to AGI and
-Embodied Intelligence" width="100">
+Embodied Intelligence" width="200">
   </a>
 </p>
 
@@ -84,9 +107,10 @@ I am the author of this book. I initiated this project to invite architects and 
 
 ### ⚖️  License
 
-This project is licensed under the .
+This project is licensed under the **Apache License 2.0**.
 
--   **Code Authorization:** The implementation code is open-source. Commercial use, distribution, and modification are permitted provided the copyright notice is retained.
+* **Code:** The implementation code is open-source. You are free to use, modify, and distribute it, including for commercial purposes, as long as the copyright notice and disclaimers are retained.
+* **Documentation & Logic:** The conceptual logic and detailed architectural blueprint (as described in the accompanying book) remain the intellectual property of the author, even though the code is open-source.
+
+For full details, please refer to the [LICENSE](./LICENSE) file.
     
-
-**Copyright © 2026 [Hai Bian]. All rights reserved.**
